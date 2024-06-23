@@ -9,3 +9,5 @@ this is some code added to master, it still does not contain the bugfix
 
 some changes on branch b
 added some code to branch c 
+
+changed test
