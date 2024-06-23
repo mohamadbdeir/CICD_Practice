@@ -1,0 +1,1 @@
+this file is created with the purpose of testing the git stash command
