@@ -1,1 +1,19 @@
+name: Workflow  with Dependencies
 
+on:
+  push: 
+    branches: 
+     -  main
+jobs:
+  job1:
+    runs-on: ubuntu-lastest
+    steps:
+      - name: Step 1
+        run: echo "this is job 1"
+
+  job2:
+    needs: job1
+    runs-on: ubuntu-latest
+    steps:
+      - name: Step 1 from job 2
+        run: echo " this is step 1 from job 2"
