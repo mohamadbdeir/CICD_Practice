@@ -7,5 +7,5 @@ this  line is a bug fix
 master is evolving independently
 this is some code added to master, it still does not contain the bugfix
 
-
 some changes on branch b
+added some code to branch c
