@@ -1,2 +1,4 @@
 /node_modules
-    !mohamad.txt
+
+*.txt
+!test.txt
