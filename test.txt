@@ -6,3 +6,6 @@ this  line is a bug fix
 
 master is evolving independently
 this is some code added to master, it still does not contain the bugfix
+
+
+added some code to branch c
