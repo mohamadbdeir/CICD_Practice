@@ -1,0 +1,13 @@
+this file should not be ignored by git
+
+
+I made some changes to it
+
+changes to a non git ignored file
+
+now it should work
+
+
+what about now 
+
+still noo?
